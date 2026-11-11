@@ -1,0 +1,6 @@
+# Xcode 사용자별 설정과 빌드 산출물
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.DS_Store
